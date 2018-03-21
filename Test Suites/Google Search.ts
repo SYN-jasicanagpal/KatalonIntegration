@@ -4,7 +4,7 @@
    <name>Google Search</name>
    <tag></tag>
    <isRerun>false</isRerun>
-   <lastRun>2018-03-21T12:25:35</lastRun>
+   <lastRun>2018-03-21T13:35:21</lastRun>
    <mailRecipient>jasica.nagpal@synechron.com;</mailRecipient>
    <numberOfRerun>2</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
@@ -20,7 +20,7 @@
    <testCaseLink>
       <guid>5459bcf3-8594-4c64-9fc7-a9fb9d8847ae</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Search Images</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>
