@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Google Search" time="31" tests="2" failures="0" errors="0">
+   <testsuite name="Google Search" tests="2" failures="0" errors="0" time="31" timestamp="2018-03-15 19:07:26" hostname="Jasica.Nagpal - SYNBLRLT-420.synechron.com" id="Test Suites/Google Search">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Jasica.Nagpal\\Katalon Studio\\Google\\Reports\\Google Search\\20180315_190723"/>
+         <property name="logFiles" value="C:\\Users\\Jasica.Nagpal\\Katalon Studio\\Google\\Reports\\Google Search\\20180315_190723\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Jasica.Nagpal - SYNBLRLT-420.synechron.com"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.3.0.1"/>
+         <property name="browser" value="Chrome 64.0.3282.186"/>
+         <property name="hostAddress" value="192.168.0.51"/>
+         <property name="sessionId" value="5a3081fd33d1276c98536fbeb803b679"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Search Text" classname="Test Cases/Search Text" status="PASSED">
+         <system-out><![CDATA[2018-03-15 19:07:27 - [TEST_CASE][PASSED] - Test Cases/Search Text: Test Cases/Search Text
+
+2018-03-15 19:07:28 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-03-15 19:07:33 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-03-15 19:07:33 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://www.google.com' successfully
+
+2018-03-15 19:07:36 - [MESSAGE][PASSED] - Navigate to 'http://www.google.com' successfully
+
+2018-03-15 19:07:36 - [TEST_STEP][PASSED] - setText: Text 'Jenkins' is set on object 'Object Repository/Page_Google/input_q'
+
+2018-03-15 19:07:36 - [MESSAGE][PASSED] - Text 'Jenkins' is set on object 'Object Repository/Page_Google/input_q'
+
+2018-03-15 19:07:36 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Google/input_btnK' is clicked on
+
+2018-03-15 19:07:38 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Google/input_btnK' is clicked on
+
+2018-03-15 19:07:38 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Jenkins - Google Search/a_Jenkins' is clicked on
+
+2018-03-15 19:07:44 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Jenkins - Google Search/a_Jenkins' is clicked on
+
+2018-03-15 19:07:44 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Jenkins/a_Documentation' is clicked on
+
+2018-03-15 19:07:47 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Jenkins/a_Documentation' is clicked on
+
+2018-03-15 19:07:47 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Jenkins User Documentation/a_Getting started' is clicked on
+
+2018-03-15 19:07:48 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Jenkins User Documentation/a_Getting started' is clicked on
+
+2018-03-15 19:07:48 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-03-15 19:07:49 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Search Images" classname="Test Cases/Search Images" status="PASSED">
+         <system-out><![CDATA[2018-03-15 19:07:49 - [TEST_CASE][PASSED] - Test Cases/Search Images: Test Cases/Search Images
+
+2018-03-15 19:07:49 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-03-15 19:07:52 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-03-15 19:07:52 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://www.google.com' successfully
+
+2018-03-15 19:07:54 - [MESSAGE][PASSED] - Navigate to 'http://www.google.com' successfully
+
+2018-03-15 19:07:54 - [TEST_STEP][PASSED] - setText: Text 'Agile' is set on object 'Object Repository/Page_Google/input_q'
+
+2018-03-15 19:07:55 - [MESSAGE][PASSED] - Text 'Agile' is set on object 'Object Repository/Page_Google/input_q'
+
+2018-03-15 19:07:55 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Google/input_btnK' is clicked on
+
+2018-03-15 19:07:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Google/input_btnK' is clicked on
+
+2018-03-15 19:07:56 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Google Search/a_Images' is clicked on
+
+2018-03-15 19:07:57 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Google Search/a_Images' is clicked on
+
+2018-03-15 19:07:57 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-03-15 19:07:58 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-03-15 19:07:26 - [TEST_SUITE][PASSED] - Google Search: Test Cases/Search Images]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
